@@ -7,5 +7,8 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   //write your code here
-  console.log("Hello Rigo from the console!");
+  let pronombres = ["El", "Nuestro"];
+  let adjetivos = ["mejor", "gran", ""];
+  let = ["libro", "racoon"];
+  console.log("Hola alfredo!");
 };
